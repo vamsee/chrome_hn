@@ -1,4 +1,4 @@
-chrome_hn
+Chrome HN
 =========
 
-A simple chrome extension which recognizes if the page which you're reading has already been submitted to HackerNews. Shows points and links to the discussion if so.
+A chrome extension to follow HackerNews discussions
